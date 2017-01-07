@@ -8,7 +8,7 @@
 
 MODULE_AUTHOR("takuho shibata");
 MODULE_DESCRIPTION("driver for LED control");
-MODULE_LICENSE("GPL");
+MODULE_LICENSE("MIT");
 MODULE_VERSION("0.1");
 
 static dev_t dev;
